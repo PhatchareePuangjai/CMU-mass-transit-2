@@ -1,0 +1,15 @@
+.color-icon-text{
+
+    background: linear-gradient(to right, #da8cff, #9a55ff);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+
+}
+
+.font-thai{
+    font-family: 'Kanit', sans-serif !important;
+}
+
+
+
